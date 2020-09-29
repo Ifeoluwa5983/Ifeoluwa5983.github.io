@@ -51,7 +51,7 @@ h3{
     color:#00008B ;
 }
 .text{
-    font-size: large;
+    font-size: large;[]
     margin-top: 80px;
     margin-left: 400px;
     margin-block-start: 3em;;
@@ -83,5 +83,8 @@ h3{
     margin-top: -196px;
     width: 30%;
   }
- 
+ .active{
+    position: relative; 
+    left: 46rem;
+ }
   
