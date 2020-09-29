@@ -39,6 +39,13 @@ h1{
 }
 h3{
     color: white;
+    position: relative;
+    /* left: 24rem; */
+    text-align: center;
+}
+#name{
+    text-align: center;
+    font-size: 4.5rem;
 }
 .head{
     color:#00008B ;
@@ -76,4 +83,5 @@ h3{
     margin-top: -196px;
     width: 30%;
   }
+ 
   
